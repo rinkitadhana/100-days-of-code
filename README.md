@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code
 
-### Day 1: July 9, 2024 
+## Day 1: July 9, 2024 
 
 **Today's Progress**:Today, I started with Tailwind and built a basic landing page from scratch. I also completed the hashing module from Striver and solved three easy Recursion problems.
 
