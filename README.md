@@ -1,3 +1,14 @@
+<!--### Day 1: July 10, 2024 
+
+**Today's Progress**: _ _
+
+**Thoughts:** _ _
+
+**Link to work:** [ ]( )
+--- -->
+
+
+
 # 100 Days Of Code
 
 ### Day 1: July 9, 2024 
@@ -8,11 +19,4 @@
 
 **Link to work:** [Website using Tailwind](https://x.com/rnkktt/status/1810727259608601051)
 ---
-### Day 1: July 10, 2024 
 
-**Today's Progress**: _ _
-
-**Thoughts:** _ _
-
-**Link to work:** [ ]( )
----
