@@ -7,6 +7,7 @@
 **Thoughts:** __
 
 **Link to work:** [Twitter Post]( )
+
 ---
 
  -->
@@ -22,6 +23,7 @@
 **Thoughts:** _It was really fun working with Tailwind. I spent a total of 4 hours today learning and practicing Tailwind. Today, I spent less time practicing DSA because of Tailwind, and I was really struggling with HashMap in Java. My friend helped me with that._
 
 **Link to work:** [Twitter Post](https://x.com/rnkktt/status/1810727259608601051)
+
 ---
 ### Day 2: July 10, 2024 
 
@@ -30,5 +32,6 @@
 **Thoughts:** _I made a logo for 'Anecdot' using Tailwind in my blogging website. I struggled with insertion sorting code. Today, I managed less time for coding because I was shifting my room the whole day._
 
 **Link to work:** [Twitter Post](https://x.com/rnkktt/status/1811123736072048867)
+
 ---
 
