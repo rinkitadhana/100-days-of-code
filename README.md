@@ -1,11 +1,15 @@
-<!--### Day 1: July 10, 2024 
+<!-- Template
 
-**Today's Progress**: _ _
+### Day 0: July 00, 2024 
 
-**Thoughts:** _ _
+**Today's Progress**: __
 
-**Link to work:** [ ]( )
---- -->
+**Thoughts:** __
+
+**Link to work:** [Twitter Post]( )
+---
+
+ -->
 
 
 
@@ -15,8 +19,16 @@
 
 **Today's Progress**: _Today, I started with Tailwind and built a basic landing page from scratch. I also completed the hashing module from Striver and solved three easy Recursion problems._
 
-**Thoughts:** _It was really fun working with tailwind. I spend total 4 hours today learning and practicing tailwind. Today I spent less time practicing DSA because of tailwind. and I was really struggling with Hashmap in Java and my friend helped me with that._
+**Thoughts:** _It was really fun working with Tailwind. I spent a total of 4 hours today learning and practicing Tailwind. Today, I spent less time practicing DSA because of Tailwind, and I was really struggling with HashMap in Java. My friend helped me with that._
 
-**Link to work:** [Website using Tailwind](https://x.com/rnkktt/status/1810727259608601051)
+**Link to work:** [Twitter Post](https://x.com/rnkktt/status/1810727259608601051)
+---
+### Day 2: July 10, 2024 
+
+**Today's Progress**: _I started with my full stack project and made some slight changes to the navbar. I also completed the Sorting-I module from Striver's sheet. I solved three questions on selection, bubble, and insertion sort._
+
+**Thoughts:** _I made a logo for 'Anecdot' using Tailwind in my blogging website. I struggled with insertion sorting code. Today, I managed less time for coding because I was shifting my room the whole day._
+
+**Link to work:** [Twitter Post](https://x.com/rnkktt/status/1811123736072048867)
 ---
 
