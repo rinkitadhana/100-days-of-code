@@ -34,4 +34,13 @@
 **Link to work:** [Twitter Post](https://x.com/rnkktt/status/1811123736072048867)
 
 ---
+### Day 3: July 11, 2024 
+
+**Today's Progress**: _Created a user authentication page for my upcoming project using React and Tailwind. I also completed all sorting algorithms and solved at least one question for each of them._
+
+**Thoughts:** _I spent a total of 2 hours creating the user authentication page and got stuck on the page animation. I couldn't figure out why my page animation wasn't working. I also did merge sort and quick sort. Both sorting algorithms were complicated, but I got them working in the end._
+
+**Link to work:** [Twitter Post](https://x.com/rnkktt/status/1811495687185482034 )
+
+---
 
