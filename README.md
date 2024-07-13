@@ -43,4 +43,18 @@
 **Link to work:** [Twitter Post](https://x.com/rnkktt/status/1811495687185482034 )
 
 ---
+### Day 4: July 12, 2024 
+
+**Today's Progress**: _Learned MongoDB but struggled to implement it in my project. Switched to practicing arrays in DSA._
+
+**Link to work:** [Twitter Post](https://x.com/rnkktt/status/1811853050451042587 )
+
+---
+### Day 5: July 13, 2024 
+
+**Today's Progress**: _Revised Node.js and MongoDB today and spent the entire day on my project. Feeling more confident with the backend now!_
+
+**Link to work:** [Twitter Post](https://x.com/rnkktt/status/1812227082975347034 )
+
+---
 
