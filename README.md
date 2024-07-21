@@ -66,8 +66,7 @@
 ---
 ### Day 7: July 15, 2024 
 
-**Today's Progress**: _I started with my full stack project and added a database to it. Then, I worked on Striver's array module and solved one medium question on LeetCode.
-_
+**Today's Progress**: _I started with my full stack project and added a database to it. Then, I worked on Striver's array module and solved one medium question on LeetCode._
 
 
 **Link to work:** [Twitter Post](https://x.com/rnkktt/status/1812936397633867873 )
