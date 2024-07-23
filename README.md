@@ -120,4 +120,12 @@
 **Link to work:** [Twitter Post](https://x.com/rnkktt/status/1815138737531293892 )
 
 ---
+### Day 14: July 22, 2024 
+
+**Today's Progress**: _Spent the whole day practicing React and creating some elements. I couldn't code much because I was reinstalling Windows on my PC._
+
+
+**Link to work:** [Twitter Post]( https://x.com/rnkktt/status/1815756098521186461)
+
+---
 
